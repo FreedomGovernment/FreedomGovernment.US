@@ -523,7 +523,7 @@
 			]
 		}
 	],
-	"documentation": "# free.us\n\n## License\n\nCopyright 2019 (C) [Cale McCollough](https://calemccollough.github.io); all rights reserved (R).\n\nThis Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at <https://mozilla.org/MPL/2.0/>.",
+	"documentation": "# free.us\n\n## License\n\nCopyright 2019 (C) [Cale McCollough](https://cale-mccollough.github.io); all rights reserved (R).\n\nThis Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at <https://mozilla.org/MPL/2.0/>.",
 	"author": "Cale McCollough",
 	"company": "freedom-gov",
 	"copyright": "Copyright 2019 (C) freedom-gov; all rights reserved (R).",

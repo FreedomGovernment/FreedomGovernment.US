@@ -1,6 +1,4 @@
-# free.us
-
-free.us is a recreation of the United States Federal and State governments.
+FreedomGovernment.US is a recreation of the United States Federal and State governments.
 
 ## Roadmap
 
@@ -8,27 +6,29 @@ This is a new project and our beachhead project is to recreate one City, one Sta
 
 ## Websites
 
-* [freedom.gov Website](https://freedom-gov.github.io)
-* [freedom.gov GitHub](https://github.com/freedom-gov)
+* [Freedom Government Website](https://FreedomGovernment.github.io)
+* [Freedom Government GitHub](https://github.com/FreedomGovernment)
 
 ### Federal
 
-* [Senate](https://github.com/freedom-gov/free.us.federal.senate)
-* [House of Representatives](https://github.com/freedom-gov/free.us.federal.house)
-* [Courts](https://github.com/freedom-gov/free.us.federal.courts)
-* [Federal Reserver](https://github.com/freedom-gov/free.us.federal.reserve)
+* [Senate](https://github.com/FreedomGovernment/FreedomGovernment.US.Senate)
+* [House of Representatives](https://github.com/FreedomGovernment/FreedomGovernment.US.House)
+* [Courts](https://github.com/FreedomGovernment/FreedomGovernment.US.Courts)
+* [Federal Reserver](https://github.com/FreedomGovernment/FreedomGovernment.US.FederalReserve)
 
 ### Oregon
 
-* [Senate](https://github.com/freedom-gov/free.us.oregon.senate)
-* [Courts](https://github.com/freedom-gov/free.us.oregon.courts)
+* [Senate](https://github.com/FreedomGovernment/FreedomGovernment.US.Oregon.Senate)
+* [Courts](https://github.com/FreedomGovernment/FreedomGovernment.US.Oregon.Courts)
 
 #### Eugene
 
-* [City Council](https://github.com/freedom-gov/free.us.oregon.eugene.city_council)
+* [City Council](https://github.com/FreedomGovernment/FreedomGovernment.US.Oregon.Eugene.CityCouncil)
 
 ## License
 
-Copyright 2019 (C) [freedom.gov](https://freedom-gov.github.io); all rights reserved (R).
+Copyright 2022 © [Freedom Government](https://github.com/FreedomGovernment); most rights reserved, Third-party commercialization prohibited, mandatory improvement donations, licensed under the Kabuki Strong Source-available License that YOU MUST CONSENT TO at <https://github.com/FreedomGovernment>.
 
-This Source Code Form is subject to the terms of the Mozilla Public License, v. 2.0. If a copy of the MPL was not distributed with this file, You can obtain one at <https://mozilla.org/MPL/2.0/>.
+### Legal Agreement
+
+This source code form is an open-source document, the Writings and Discoveries, that was written by and contains intellectual property belonging to the IP Owner. The Writings and Discoveries consist of documents, files, source code, technology design files, art, trademarks, and other content contained this file, folder and the GitHub repository, the Repos, located at <https://github.com/FreedomGovernment>. The Writings and Discoveries are published under the Kabuki Strong Source-available License, the License, which is a non-commercial open-source license and is for educational and demonstration purposes only. To use the Writings and Discoveries for commercial purposes, you must download the Writings and Discoveries from <https://github.com/FreedomGovernment> or approved Third-party vendor and you will be bound to the license agreed upon before downloading the Writings and Discoveries. You may use, reproduce, publicly display, and modify the Writings and Discoveries so long as you submit and donate fixes and derived intellectual property, the Donated Ideas, to the Repo as an Issue ticket to become part of the Writings and Discoveries. You may not sell the Writings and Discoveries or otherwise profit from derivative works created from the Writings and Discoveries, refereed to as Third-party Monetization or Third-party Monetize, without the expressed written permission of the copyright holder. Unless required by applicable law or agreed to in writing, the Writings and Discoveries distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
