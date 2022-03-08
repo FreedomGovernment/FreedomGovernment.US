@@ -1,4 +1,4 @@
-FreedomGovernment.US is a recreation of the United States Federal and State governments.
+FreedomGovernment.USA is a recreation of the United States Federal and State governments.
 
 ## Roadmap
 
@@ -11,19 +11,16 @@ This is a new project and our beachhead project is to recreate one City, one Sta
 
 ### Federal
 
-* [Senate](https://github.com/FreedomGovernment/FreedomGovernment.US.Senate)
-* [House of Representatives](https://github.com/FreedomGovernment/FreedomGovernment.US.House)
-* [Courts](https://github.com/FreedomGovernment/FreedomGovernment.US.Courts)
-* [Federal Reserver](https://github.com/FreedomGovernment/FreedomGovernment.US.FederalReserve)
+* [State](https://github.com/FreedomGovernmentUSA/FreedomGovernment.USA)
+* [Senate](https://github.com/FreedomGovernmentUSA/FreedomGovernment.USA.Senate)
+* [House of Representatives](https://github.com/FreedomGovernmentUSA/FreedomGovernment.USA.House)
+* [Courts](https://github.com/FreedomGovernmentUSA/FreedomGovernment.USA.Courts)
+* [Federal Reserver](https://github.com/FreedomGovernmentUSA/FreedomGovernment.USA.FederalReserve)
 
-### Oregon
+### States
 
-* [Senate](https://github.com/FreedomGovernment/FreedomGovernment.US.Oregon.Senate)
-* [Courts](https://github.com/FreedomGovernment/FreedomGovernment.US.Oregon.Courts)
+* [Oregon](https://github.com/FreedomGovernmentUSAOregon/FreedomGovernment.USA.Oregon)
 
-#### Eugene
-
-* [City Council](https://github.com/FreedomGovernment/FreedomGovernment.US.Oregon.Eugene.CityCouncil)
 
 ## License
 
